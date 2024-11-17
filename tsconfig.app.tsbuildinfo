@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/stores/imageStore.ts","./src/types/index.ts","./src/App.vue","./src/components/HelloWorld.vue","./src/components/ImageExporter.vue","./src/components/ImageProcessor.vue","./src/components/ImageUploader.vue"],"errors":true,"version":"5.6.3"}
